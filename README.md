@@ -2,9 +2,9 @@
 
 # Step 1: Install dependencies
 
-Client: npm install styled-components @mui/material @mui/lab @mui/icons-material @emotion/styled @emotion/react axios react-router-dom react-redux redux-persist @reduxjs/toolkit dayjs @mui/x-charts @mui/x-date-pickers
+Client: npm install @emotion/react @emotion/styled @mui/icons-material @mui/lab @mui/material axios file-saver react-lazy-load-image-component react-router-dom  styled-components
 
-Server: npm install bycrypt cors dotenv express jsonwebtoken mongoose nodemon
+Server: npm install cloudinary cors dotenv express mongoose nodemon openai
 
 # Step 2: Clean files and set the folder structure
 
