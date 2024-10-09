@@ -6,6 +6,6 @@ Client: npm install styled-components @mui/material @mui/lab @mui/icons-material
 
 Server: npm install bycrypt cors dotenv express jsonwebtoken mongoose nodemon
 
-# Step 2: Clean Files and set the folder structure
+# Step 2: Clean files and set the folder structure
 
 # Step 3: Set environment variables in server and connect to mongo DB
