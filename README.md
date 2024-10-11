@@ -12,14 +12,14 @@
   npm install cloudinary cors dotenv express mongoose nodemon openai
   ```
   
-# To run file locally on your computer
+# To run file locally on your computer follow the steps
 
-#### Client:
+* Client:
 ```sh
 npm start
 ```
 
-### Step 1: Set environment variables in server and connect to mongo DB
+* Set environment variables in server and connect to mongo DB
 ```sh
 MONGODB_URL=""
 OPENAI_API_KEY=""
