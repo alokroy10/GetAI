@@ -2,12 +2,12 @@
 
 ### Install dependencies if you want to build this website from scratch
 
-* Client:
+#### Client:
   ```sh
   npm install @emotion/react @emotion/styled @mui/icons-material @mui/lab @mui/material axios file-saver react-lazy-load-image-component react-router-dom  styled-components
   ```
 
-* Server:
+#### Server:
   ```sh
   npm install cloudinary cors dotenv express mongoose nodemon openai
   ```
