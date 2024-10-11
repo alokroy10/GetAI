@@ -14,7 +14,10 @@
   
 # To run file locally on your computer
 
-*Client: ```sh npm start```
+*Client:
+```sh
+npm start
+```
 
 ### Step 1: Set environment variables in server and connect to mongo DB
 ```sh
