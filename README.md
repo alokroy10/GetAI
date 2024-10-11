@@ -9,9 +9,10 @@ Server: npm install cloudinary cors dotenv express mongoose nodemon openai
 ### Step 2: Clean files and set the folder structure
 
 ### Step 3: Set environment variables in server and connect to mongo DB
-
+```sh
 MONGODB_URL=""
 OPENAI_API_KEY=""
 CLOUDINARY_CLOUD_NAME=""
 CLOUDINARY_API_KEY=""
 CLOUDINARY_API_SECRET=""
+```
