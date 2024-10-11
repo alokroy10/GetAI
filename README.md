@@ -2,9 +2,11 @@
 
 ### Install dependencies if you want to build this website from scratch
 
-* Client: ```sh npm install @emotion/react @emotion/styled @mui/icons-material @mui/lab @mui/material axios file-saver react-lazy-load-image-component react-router-dom  styled-components ```
+* Client: ```sh npm install @emotion/react @emotion/styled @mui/icons-material @mui/lab @mui/material axios file-saver react-lazy-load-image-component react-router-dom  styled-components```
 
-* Server: ```sh npm install cloudinary cors dotenv express mongoose nodemon openai ```
+* Server: ```sh
+  npm install cloudinary cors dotenv express mongoose nodemon openai
+  ```
   
 # To run file locally on your computer
 
