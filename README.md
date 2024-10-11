@@ -21,6 +21,8 @@ npm start
 * Server:
 ```sh
 nodemon app.js
+```
+```sh
 node index.js
 ```
 
