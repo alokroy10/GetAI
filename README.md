@@ -12,7 +12,7 @@
   npm install cloudinary cors dotenv express mongoose nodemon openai
   ```
   
-# To run file locally on your computer follow the steps
+### To run file locally on your computer follow the steps
 
 * Client:
 ```sh
