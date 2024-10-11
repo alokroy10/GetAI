@@ -21,7 +21,7 @@ npm start
 * Server:
 Install nodemon globally
 ```sh
-npm i -g nodemon
+npm i -g nodemon //dsdssds
 ```
 ```sh
 nodemon app.js
