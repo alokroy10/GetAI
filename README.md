@@ -18,6 +18,11 @@
 ```sh
 npm start
 ```
+* Server:
+```sh
+nodemon app.js
+node index.js
+```
 
 * Set environment variables in server and connect to mongo DB
 ```sh
