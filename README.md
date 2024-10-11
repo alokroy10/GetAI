@@ -14,7 +14,7 @@
   
 # To run file locally on your computer
 
-*Client:
+* Client:
 ```sh
 npm start
 ```
